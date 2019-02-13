@@ -1,15 +1,79 @@
 {
   "Unit Tests": {
     "coverage": {
-      "/Users/aleneschlereth/turing/1710/exercises/denver_public_library/test/book_test.rb": [
+      "/Users/robertstringer/turing/1module/mod1_projects/in_class_exercises/dpl_1901/lib/author.rb": [
+        1,
         1,
         null,
+        null,
+        null,
+        null,
         1,
+        4,
+        4,
+        4,
+        null,
+        null,
+        null,
+        1,
+        2,
+        2,
         null,
         null,
         null
       ],
-      "/Users/aleneschlereth/turing/1710/exercises/denver_public_library/test/library_test.rb": [
+      "/Users/robertstringer/turing/1module/mod1_projects/in_class_exercises/dpl_1901/lib/book.rb": [
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        7,
+        7,
+        7,
+        7,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/robertstringer/turing/1module/mod1_projects/in_class_exercises/dpl_1901/test/book_test.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        5,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/robertstringer/turing/1module/mod1_projects/in_class_exercises/dpl_1901/test/library_test.rb": [
         1,
         null,
         1,
@@ -18,6 +82,6 @@
         null
       ]
     },
-    "timestamp": 1508521288
+    "timestamp": 1550077536
   }
 }
